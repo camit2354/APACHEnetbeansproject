@@ -1,7 +1,0 @@
-com\eshop\data\ItemDataService.class
-com\eshop\servlets\ItemSearchServlet.class
-com\eshop\servlets\HelloWorldServlet.class
-com\eshop\domain\ItemCategory.class
-com\eshop\domain\Order.class
-com\eshop\domain\Items.class
-com\eshop\servlets\ViewItemServlet.class

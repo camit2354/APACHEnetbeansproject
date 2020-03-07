@@ -31,7 +31,7 @@ public class StartPage extends JFrame
         registerB = new JButton("REGISTER");
         unameJlabel = new JLabel("USERNAME");
         passJlabel = new JLabel("PASSWORD");
-        String[] userString = new String[] {"ADMIN", "USER"};
+        String[] userString = new String[] {"USER","ADMIN"};
         
          Dimension dim1 =new Dimension(100,30);
         
